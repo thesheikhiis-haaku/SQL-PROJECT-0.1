@@ -1,14 +1,16 @@
-# 0.1 SQL Data Project
+# Movie Database SQL Explorer
 
-Welcome to my very first SQL portfolio project! Here, I am demonstrating foundational data querying skills using basic filtering and selection operations.
+## Overview
+A beginner portfolio project analyzing a movie catalog using fundamental SQL queries. This project demonstrates how to extract specific insights regarding genres, runtimes, and ratings using basic filtering operations.
 
 ## Tools & Commands Used
 * **Language:** SQL
-* **Commands:** `SELECT`, `FROM`, `WHERE`, `LIKE`, `>`, `!=`
+* **Commands:** `SELECT`, `FROM`, `WHERE`, `LIKE`, `>`, `!=`, `AND`
 
-## Sample Queries Included
-* **Pattern Matching:** Using `LIKE` to search for specific text patterns within data entries.
-* **Conditional Filtering:** Using comparison operators (`>`, `!=`) to narrow down datasets based on specific numerical and categorical criteria.
+## Key Business Questions Answered
+1. **Genre Filtering (`LIKE`):** Finding all sci-fi titles within the catalog using pattern matching.
+2. **Conditional Screening (`>`, `!=`):** Identifying long-form movies (runtime over 120 minutes) that are rated anything other than 'R'.
+3. **Combined Filtering:** Pinpointing modern action movies released after 2018.
 
 ## Check Out the Code
-You can view the full queries I wrote in the [queries.sql](./queries.sql) file in this repository.
+You can view the full queries in the [queries.sql](./queries.sql) file in this repository.

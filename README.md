@@ -14,3 +14,9 @@ A beginner portfolio project analyzing a movie catalog using fundamental SQL que
 
 ## Check Out the Code
 You can view the full queries in the [queries.sql](./queries.sql) file in this repository.
+
+
+## Power BI Dashboard
+Here is a preview of the Power BI visualization built using the movie dataset:
+
+![Dashboard Preview](./dashboard-screenshot.png)

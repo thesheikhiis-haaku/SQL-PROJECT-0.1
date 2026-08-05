@@ -19,4 +19,4 @@ You can view the full queries in the [queries.sql](./queries.sql) file in this r
 ## Power BI Dashboard
 Here is a preview of the Power BI visualization built using the movie dataset:
 
-![Dashboard Preview](./dashboard-screenshot.png)
+dashboard-screenshot.png.png

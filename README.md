@@ -1,4 +1,4 @@
-# Beginner SQL Data Project
+# 0.1 SQL Data Project
 
 Welcome to my very first SQL portfolio project! Here, I am demonstrating foundational data querying skills using basic filtering and selection operations.
 
